@@ -1,0 +1,11 @@
+Model Information:
+* title:	Handsome Squidward
+* source:	https://sketchfab.com/3d-models/handsome-squidward-440eabe91bf849f99301f86a353643aa
+* author:	AverageMan (https://sketchfab.com/QWER123468078)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Handsome Squidward" (https://sketchfab.com/3d-models/handsome-squidward-440eabe91bf849f99301f86a353643aa) by AverageMan (https://sketchfab.com/QWER123468078) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
